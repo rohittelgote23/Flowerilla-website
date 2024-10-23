@@ -1,7 +1,7 @@
 # Flowerilla-website
 <h2>FRT : Future ready talent project by Rohit Telgote</h2>
 <h3>This website gives the importance of flowers in our life</h3>
-<h3>my Website Link is : https://red-cliff-07566b410.1.azurestaticapps.net</h3>
+<h3>my Website Link is : https://rohittelgote23.github.io/Flowerilla-website/</h3>
 
 <p>Before creating this site people don't know the importance of the flower in human life. 
 After publishing this site people started reading about flower and they know the importance of flower in human life</p>
